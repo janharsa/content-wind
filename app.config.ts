@@ -7,7 +7,7 @@ export default defineAppConfig({
   },
   prose: {
     h1: {
-      icon: 'carbon:sailboat-coastal'
+      icon: 'tabler:arrows-exchange-2'
     }
   }
 })
